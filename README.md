@@ -1,6 +1,5 @@
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.0UUwxZdDkbim-aiNVMa_mgHaEv%26pid%3DApi&f=1&ipt=2be12c963142c6826ae33a37efde3e869c678810d7177cca2420e0dad11bc9ff&ipo=images
 Hi 👋 My name is Hamza ZEKRI
-============================
+
 
 Web Developer
 -------------
