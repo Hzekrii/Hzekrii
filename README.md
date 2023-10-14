@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tamzen&size=25&pause=998&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+;A+Computer+Science+Student;A+Tech+Enthusisast" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tamzen&weight=300&size=25&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+;A+Computer+Science+Student;A+Tech+Enthusiast)](https://git.io/typing-svg)
 
 I'm dedicated developer with two years of coding and web development experience. I'm currently pursuing my bachelor's degree in computer science and I'm passionate about all things tech. I'm on a journey to master JavaScript frameworks and constantly exploring new ways to create web applications. Feel free to explore my projects and get in touch; I love connecting with fellow developers and tech enthusiasts.
 
