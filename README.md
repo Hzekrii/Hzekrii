@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hamza ZEKRI
-===================================================================================================================================
+# Hi 👋 My name is Hamza Zekri
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tamzen&weight=300&size=25&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+;A+Computer+Science+Student;A+Tech+Enthusiast)](https://git.io/typing-svg)
 
