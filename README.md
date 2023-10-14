@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tamzen&pause=1000&color=1AF77B&multiline=true&random=false&width=435&lines=Full+Stack+Web+Developer;A+Computer+Science+Student;A+Tech+Enthusisast)]  ![programming](https://github.com/Hzekrii/Hzekrii/assets/92824341/38a98da2-b51e-4e87-88f5-358699754d33)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tamzen&pause=1000&color=1AF77B&multiline=true&random=false&width=435&lines=Full+Stack+Web+Developer;A+Computer+Science+Student;A+Tech+Enthusisast)]  ![image](https://github.com/Hzekrii/Hzekrii/assets/92824341/8e2837db-288e-40e7-93a9-d25541085cdf)
+
 
 
 I'm dedicated developer with two years of coding and web development experience. I'm currently pursuing my bachelor's degree in computer science and I'm passionate about all things tech. I'm on a journey to master JavaScript frameworks and constantly exploring new ways to create web applications. Feel free to explore my projects and get in touch; I love connecting with fellow developers and tech enthusiasts.
