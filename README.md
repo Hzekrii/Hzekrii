@@ -1,145 +1,156 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&random=false&width=700&height=80&lines=Hey%2C+I'm+Hamza+Zekri+%F0%9F%91%8B;Data+Engineer+%7C+Big+Data+%26+Cloud;Building+Real-Time+Streaming+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0096EE,100:00D9FF&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&duration=2200\&pause=900\&color=0096EE\&center=true\&vCenter=true\&width=700\&height=100\&lines=Hi+I'm+Hamza+Zekri;Big+Data+%7C+Data+Engineering+Student;Building+Scalable+Data+Pipelines;Kafka+%7C+Spark+%7C+Airflow+%7C+Docker)](https://git.io/typing-svg)
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-```yaml
-name        : Hamza Zekri
-role        : Data Engineer & Big Data Enthusiast
-education   : Master's — Big Data & Cloud Computing
-location    : Morocco 🇲🇦
-email       : hamza3zekri@gmail.com
-focus       : [ Real-Time Pipelines, Distributed Systems, Cloud-Native Infra ]
-fun_facts   : [ 📷 Photography, 🌍 Travelling, 🧠 Always building something ]
-```
+🎓 **Master’s Student in Big Data & Cloud Computing**
 
-I design and build **scalable data systems** — from real-time Kafka pipelines and Spark streaming jobs to containerized cloud-native architectures. Passionate about distributed systems, observability, and data infrastructure that actually runs at scale.
+I am a **Data Engineering and Backend enthusiast** focused on building **scalable data systems and distributed architectures**.
 
----
+My work mainly revolves around:
 
-## 🚀 Featured Project — Real-Time Streaming Pipeline
+* **Real-time data streaming pipelines**
+* **Big Data ecosystem technologies**
+* **Cloud-native and containerized infrastructures**
+* **Monitoring and observability systems**
 
-> **Distributed Data Engineering pipeline for real-time ingestion and processing**
-
-```
-API  ──►  Airflow  ──►  Kafka  ──►  Spark Streaming  ──►  Cassandra
-                          │                                    │
-                     ZooKeeper                           Prometheus  ──►  Grafana
-                     Schema Registry
-                     Control Center
-```
-
-| Component | Role |
-|-----------|------|
-| **Apache Airflow** | Workflow orchestration & DAG scheduling |
-| **Apache Kafka** | Distributed event streaming broker |
-| **Spark Structured Streaming** | Real-time micro-batch processing |
-| **Apache Cassandra** | Distributed NoSQL storage |
-| **Prometheus + Grafana** | Metrics collection & dashboards |
-| **Docker Compose** | Full containerized deployment |
-
-[![View Project](https://img.shields.io/badge/View%20Project-%2300D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hzekrii/realtime_data_streaming)
+I enjoy designing systems that **ingest, process, and analyze large-scale data in real time.**
 
 ---
 
-## ⚙️ Tech Stack
+### 🌍 Location
 
-### 📊 Big Data & Data Engineering
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+Morocco 🇲🇦
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ✉️ Contact
 
-### 📈 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+**Email:** [hamza3zekri@gmail.com](mailto:hamza3zekri@gmail.com)
 
-### 💻 Programming & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎯 Current Focus
 
-### 🌐 Frontend & Web
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
+* Real-time **Data Engineering pipelines**
+* **Apache Kafka & Spark Streaming**
+* **Distributed systems**
+* **Data platform monitoring**
+
+### ⚡ Fun Facts
+
+* 📷 Photography lover
+* 🌍 Passionate about travelling
+* 🧠 Always exploring new technologies
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<div align="center">
+## 📊 Real-Time Data Streaming Pipeline
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hzekrii&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+Distributed **Data Engineering pipeline** for real-time ingestion and processing.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hzekrii&theme=tokyonight&hide_border=true)
+**Technologies**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hzekrii&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Kafka • Spark Structured Streaming • Airflow • Cassandra • Prometheus • Grafana • Docker
 
-</div>
+**Architecture**
 
----
+API → Airflow → Kafka → Spark Streaming → Cassandra → Prometheus → Grafana
 
-## 🏆 GitHub Trophies
+**Features**
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=hzekrii&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=hzekrii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
+* Real-time event streaming
+* Distributed processing with Spark
+* NoSQL storage with Cassandra
+* Workflow orchestration using Airflow
+* Infrastructure monitoring using Prometheus & Grafana
+* Fully containerized environment with Docker
 
 ---
 
-## ✍️ Dev Quote
+## ⚙️ Full Stack Cloud Application
 
-<div align="center">
+Web application using:
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+* **Django Backend**
+* **Angular Frontend**
+* **GraphQL API**
+* **Docker Containers**
+* **Kubernetes Deployment**
 
-</div>
+Includes authentication, containerized services and cloud-native architecture.
 
 ---
 
-## 🌐 Connect With Me
+# 🧠 Skills & Technologies
 
-<div align="center">
+## 💻 Programming
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-zekri-20088a238/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Hamzazekri5)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zekri_hm)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza3zekri@gmail.com)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 
-<br/>
+---
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=hzekrii&label=Profile%20Views&icon=6&color=1&pretty=true)](https://visitcount.itsvg.in)
+## 📊 Big Data & Data Engineering
 
-</div>
+![Apache Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge\&logo=apachekafka)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge\&logo=apachecassandra\&logoColor=white)
+![Hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge\&logo=apachehadoop\&logoColor=black)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0096EE,100:0d1117&height=100&section=footer" width="100%"/>
+---
+
+## ☁️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+## 📈 Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+
+---
+
+## 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/hamza-zekri-20088a238)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/zekri_hm)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=hzekrii\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hzekrii\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hzekrii\&theme=tokyonight\&layout=compact\&hide_border=true)
+
+---
+
+# 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=hzekrii\&theme=radical\&no-frame=true)
+
+---
+
+# ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+
+---
+
+⭐ **If you find my projects interesting, feel free to explore and connect!**
