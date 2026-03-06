@@ -101,7 +101,7 @@ API  ──►  Airflow  ──►  Kafka  ──►  Spark Streaming  ──►
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hzekrii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hzekrii&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 
@@ -111,7 +111,7 @@ API  ──►  Airflow  ──►  Kafka  ──►  Spark Streaming  ──►
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=hzekrii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=hzekrii&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
