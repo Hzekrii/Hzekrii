@@ -87,11 +87,11 @@ API  ──►  Airflow  ──►  Kafka  ──►  Spark Streaming  ──►
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hzekrii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hzekrii&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hzekrii&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hzekrii&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hzekrii&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -101,7 +101,7 @@ API  ──►  Airflow  ──►  Kafka  ──►  Spark Streaming  ──►
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hzekrii&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hzekrii&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
@@ -111,7 +111,7 @@ API  ──►  Airflow  ──►  Kafka  ──►  Spark Streaming  ──►
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=hzekrii&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=hzekrii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -121,7 +121,7 @@ API  ──►  Airflow  ──►  Kafka  ──►  Spark Streaming  ──►
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
